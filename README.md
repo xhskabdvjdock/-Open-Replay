@@ -91,9 +91,3 @@ open-replay/
 - لا يتم رفع أي مقاطع أو صوت
 - لا يوجد تتبع أو إرسال بيانات
 - لا يحتاج إلى حساب مستخدم أو اتصال بالإنترنت
-
-## Windows installers
-
-- [NSIS installer](./installers/Open-Replay-0.1.0-x64-setup.exe)
-- [MSI installer](./installers/Open-Replay-0.1.0-x64_en-US.msi)
-
